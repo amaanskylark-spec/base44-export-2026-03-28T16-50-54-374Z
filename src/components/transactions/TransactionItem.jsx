@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { ArrowUpRight, ArrowDownLeft, MessageSquare, Pencil, Trash2, MoreVertical } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { format } from 'date-fns';
